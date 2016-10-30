@@ -1,4 +1,4 @@
-# Ng2FormsTemplateDriven
+# Ng2 Form Tempalte Driven and From Reactive 
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.18.
 
